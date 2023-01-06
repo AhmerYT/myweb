@@ -3,7 +3,7 @@ body,h2,h3,h4,h5,h6 ul,ol{
 	padding:0 auto;
 }
 .main-container{
-	width:99.8%;
+	width:100%;
 	min-height:800px;
 	border:px solid red;
 	
